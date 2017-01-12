@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">HeroesManager</string>
+
+    //Buttons
+        //Main
+        <string name="btn_add_hero">ADD HERO</string>
+
+        //InsertActivity
+        <string name="btn_send">SEND</string>
+
+        //DetailActivity
+        <string name="btn_update_hero">UPDATE</string>
+        <string name="btn_delete_hero">DELETE</string>
+        <string name="btn_confirm_delete_hero">CONFIRM</string>
+        <string name="btn_cancel_delete_hero">CANCEL</string>
+    //Popup
+    <string name="popup_confirm_delete_hero_title_message">Confirm Delete</string>
+    <string name="popup_confirm_delete_hero_description_message">Would you really want to delete this Hero ?</string>
+    <string name="popup_what_to_do_title">What to do ?</string>
+    <string name="popup_what_to_do_description">What do you want to do with this Hero ?</string>
+
+    //InsertActivity
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="nickname">Nickname</string>
+    <string name="city">City</string>
+    <string name="origin">Origin</string>
+    <string name="first_release_date">First release date</string>
+    <string name="is_masked">Is masked ?</string>
+    <string name="is_masked_answer">Check if yes</string>
+    <string name="rating">Rating</string>
+
+    //Errors Insert Activity
+    <string name="error_first_name">Error first name must be alphanumeric</string>
+    <string name="error_last_name">Error last name must be alphanumeric</string>
+    <string name="error_nickname">Error nickname must be set and alphanumeric</string>
+    <string name="error_city">Error city must be alphanumeric</string>
+    <string name="error_origin">Error origin must be alphanumeric</string>
+
+
+
+</resources>
